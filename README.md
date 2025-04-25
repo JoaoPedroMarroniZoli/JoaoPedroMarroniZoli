@@ -1,6 +1,7 @@
 ## Olá, eu sou o João Pedro Marroni Zoli
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMarroniZoli&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroMarroniZoli&show_icons&theme=dark)](https://github.com/JoaoPedroMarroniZoli/github-readme-stats)
 
 ##
 
