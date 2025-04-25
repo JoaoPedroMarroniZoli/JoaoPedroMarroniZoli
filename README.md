@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMarroniZoli&show_icons=true&theme=dark)
 
+##
+
 <h6 align="center">Me chamo João Pedro, possuo 17 anos e busco ser um programador.<br>
 <h6 align="center">Estudo engenharia de Software na Unicesumar e procuro ser um Dev.<br>
 <h6 align="center">Interessado em aprender novas linguagens de programação<br>No tempo livre jogo videogame, estudo, faço academia, leio e toco guitarra.<br>
