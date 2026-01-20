@@ -7,7 +7,7 @@
 
 <h6 align="center">Me chamo João Pedro, possuo 18 anos.<br>
 <h6 align="center">Estudo engenharia de Software na Unicesumar e procuro ser um Dev.<br>
-<h6 align="center">Interessado em aprender novas linguagens de programação<br>No tempo livre jogo videogame, estudo, faço academia, leio e toco guitarra.<br>
+<h6 align="center">Interessado em aprender novas linguagens de programação
 <h6 align="center">Procuro Estágio
 
  [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="48"/>](https://www.linkedin.com/in/joão-pedro-marroni-zoli-1a95b3361/)
