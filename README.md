@@ -10,7 +10,7 @@
 <h6 align="center">Interessado em aprender novas linguagens de programação
 <h6 align="center">Procuro Estágio
 
- [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="48"/>](https://www.linkedin.com/in/joão-pedro-marroni-zoli-1a95b3361/)
+ [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="48"/>](https://www.linkedin.com/in/joaopedromarronizoli)
  [<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="48"/>](malito:jmarronizoli@gmail.com)
 
 <h6 align="center">Essa página irá receber diversas atualizações de acordo com o avanço da minha habilidade em programar!.<br>
